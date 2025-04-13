@@ -3,6 +3,7 @@
 ### Self Introduction 🌱
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello%2CI'm+0x3a0x29.)](https://git.io/typing-svg)
+
 I am someone who enjoys doing things that interest me recently.
 
 ---
