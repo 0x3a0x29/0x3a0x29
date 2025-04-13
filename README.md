@@ -25,4 +25,4 @@ My skills:
   <span></span>
 </div>
 
-So far, there have been a total of ![Visitor Count](https://profile-counter.glitch.me/0x3a0x29/count.svg) visitor!
+So far, there have been a total of ![Visitor Count](https://profile-counter.glitch.me/0x3a0x29/count.svg) visitors!
